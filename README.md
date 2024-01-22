@@ -7,3 +7,6 @@ Once you log in you can:
 - Request a loan
 - Delete the account
 - Sort your account movements
+
+Account 1 (user:mm, pin:1111)
+Account 2 (user:lm, pin:2222)
